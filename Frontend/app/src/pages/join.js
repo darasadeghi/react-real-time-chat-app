@@ -57,10 +57,10 @@ class Join extends Component {
                             <div className="form_select">
                                 <select name="room" onChange={this.inputUpdate.bind(this)}>
                                     <option value="">Please select a group</option>
-                                    <option value="Faculty of Arts and Social Science">React JS</option>
-                                    <option value="Faculty of Engineering and Physical Sciences">Node JS</option>
-                                    <option value="Faculty of Health and Medical Science">React JS</option>
-                                    <option value="General Student Union">React JS</option>
+                                    <option value="Faculty of Arts and Social Sciences">Faculty of Arts and Social Sciences</option>
+                                    <option value="Faculty of Engineering and Physical Sciences">Faculty of Engineering and Physical Sciences</option>
+                                    <option value="Faculty of Health and Medical Science">Faculty of Health and Medical Science</option>
+                                    <option value="General Student Union">General Student Union</option>
                                 </select>
                                 <i className="fas fa-chevron-down"></i>
                             </div>

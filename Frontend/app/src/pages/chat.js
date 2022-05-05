@@ -169,6 +169,7 @@ class Chat extends Component {
                                 <div className="btnWrap">
                                     <button type="submit" className="btn">
                                         <i className="fab fa-telegram-plane"></i>
+                                    </button>
                                 </div>
                             </form>
                         </div>
